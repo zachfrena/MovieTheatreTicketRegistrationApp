@@ -17,10 +17,14 @@ prior to public announcements.
 - Download the appropriate driver, and add .jar to classpath.
 -This project used MySQL Connector/J from https://dev.mysql.com/downloads/connector/j/
 
-### Usernames already in Database:
+### Usernames already in Database (for testing purposes):
     * username1
     * username2
     * user2
     * u123
  
- 
+## sample application images: 
+![sign up page](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/SignUpFormPage.JPG)
+![main menu](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/MainMenuPage.JPG)
+![ticket selection](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/TicketSelectionPage.JPG)
+![seat selection](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/SeatSelectionPage.JPG)
