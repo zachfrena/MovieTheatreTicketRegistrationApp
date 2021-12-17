@@ -24,7 +24,15 @@ prior to public announcements.
     * u123
  
 ## sample application images: 
+
+### Sign-up page:
 ![sign up page](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/SignUpFormPage.JPG)
+
+### Main Menu page:
 ![main menu](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/MainMenuPage.JPG)
+
+### Ticket Selection page:
 ![ticket selection](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/TicketSelectionPage.JPG)
+
+### Seat Selection page:
 ![seat selection](https://github.com/zachfrena/MovieTheatreTicketRegistrationApp/blob/main/SamplePhotos/SeatSelectionPage.JPG)
